@@ -15,4 +15,4 @@ def get_int(prompt):
 #call main 
 main()
 
-#wanted to make a note her to see if it will post to github
+#wanted to make a note here to see if it will post to github
